@@ -4,7 +4,7 @@ from turtle import *
 from freegames import floor, vector
 a = 100000
 while a:
-    print('Welvome to the EptScript')
+    print('Welcome to the BondyScript')
     inp = input('>>>')
     if inp == '++-':
         pri = input('print>')
